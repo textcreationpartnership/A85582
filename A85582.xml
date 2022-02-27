@@ -1,0 +1,937 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britains glory, or, A brief description of the present state, splendor, and magnificence of the Royal Exchange with some remarkable passages relating to the present engagement : humbly presented to the several merchants of the City of London, who daily meet, traffique, and converse in the said place / by Theophilus Philalethes.</title>
+            <author>T. P. (Theophilus Philalethes)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85582</idno>
+            <idno type="STC">Wing G1667</idno>
+            <idno type="STC">ESTC R212964</idno>
+            <idno type="EEBO-CITATION">42475036</idno>
+            <idno type="OCLC">ocm 42475036</idno>
+            <idno type="VID">151153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britains glory, or, A brief description of the present state, splendor, and magnificence of the Royal Exchange with some remarkable passages relating to the present engagement : humbly presented to the several merchants of the City of London, who daily meet, traffique, and converse in the said place / by Theophilus Philalethes.</title>
+                  <author>T. P. (Theophilus Philalethes)</author>
+               </titleStmt>
+               <extent>[10], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Ratcliffe, and Nat. Thompson, for Jonathan Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Domini 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"With Authoritie."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151153:1" rendition="simple:additions"/>
+            <p>Great Britains Glory, OR A brief Deſcription of the preſent State, Splendor, and Magnificence of the Royal Exchange, With ſome remarkable Paſſages relating to the preſent ENGAGEMENT. Humbly Preſented To the ſeveral Merchants of the City of LONDON, Who daily Meet, Traffique, and Con<g ref="char:EOLhyphen"/>verſe in the ſaid place.</p>
+            <p>By <hi>THEOPHIL <g ref="char:V">Ʋ</g>S PHILALETHES.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>With Authoritie.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Ratcliffe,</hi> and <hi>Nat. Thompſon,</hi> for <hi>Jonathan Edwin</hi> at the three Roſes in <hi>Ludgate</hi> Street, <hi>Anno Domini.</hi> 1672.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151153:2"/>
+            <pb facs="tcp:151153:2"/>
+            <head>To the Right Honorable, AND To the Right Worſhipful <hi>Merchants</hi> Of the City of LONDON.</head>
+            <opener>
+               <salute>Much Honoured Sirs,</salute>
+            </opener>
+            <p>I Have aſſumed the Dedication of theſe enſuing Lines, (wherein is a brief De<g ref="char:EOLhyphen"/>ſcription of the preſent State, Splendor, and Magnificenſe of the <hi>ROYAL EXCHANGE</hi>) unto your Worthy ſelves, many Reaſons I could alledge for my induce<g ref="char:EOLhyphen"/>ment thereunto; But that which I hope will give you the beſt ſatisfaction for my preſent preſumption, is namely this, <hi>viz.</hi> becauſe this ſtately Fabrick of the <hi>Royal Exchange,</hi> may (without a fallacy) in ſome ſenſe be called Yours, for it was firſt built, (and ſince the
+<pb facs="tcp:151153:3"/>late dreadful Fire again rebuilt) chiefly for your ſakes, and for your accommodation: And moreover, becauſe many of you (as Al<g ref="char:EOLhyphen"/>dermen, Common-Council-men, and as Mem<g ref="char:EOLhyphen"/>bers of the Right Worſhipful Company of <hi>Mercers</hi>) are at this day the proper and imme<g ref="char:EOLhyphen"/>diate Landlords thereof; To whom therefore ſhould a piece of this nature (when extant) be preſented for Patronage, but to your ſelves; My aim and principal deſign in this pre<g ref="char:EOLhyphen"/>ſent attempt, is, only yet farther to enhance the Fame, Glory, and Magnificence of Your ſaid place; and herein not only to my own Friends and Countreymen, but alſo (as you may perceive by the Introduction) to For<g ref="char:EOLhyphen"/>reigners and Strangers beyond the Seas, that ſo many of the Perſons of Quality in the ſaid places, may be induced thereby (among the reſt of their Travels) to embarque themſelves for our Iſland, to behold the State, and Splendor thereof, where I make no queſtion, not only the Citizens of <hi>LONDON</hi> in general, but the preſent Inhabitants of the <hi>Royal Exchange</hi> in particular (in regard ſuch perſons ſeldom travail into other Countreys without good
+<pb facs="tcp:151153:3"/>ſtore of chink in their pockets) will bid them freely welcom unto the ſaid place; my hopes are, that you alſo will be pleaſed (as much as in you lies) to promote and encourage this ſo honeſt and harmleſs a deſign (which with much facility may be done when you ſhall either Write or Travail unto your Correſpon<g ref="char:EOLhyphen"/>dents abroad) In regard you will thereby be inſtrumental to promote &amp; advance the Trade of this once Famous and Renowned City of <hi>LONDON,</hi> for the which (I muſt confeſs) I have ſo great and ſo Honourable a Reſpect, and am much perplexed in my thoughts, that although the City of <hi>LONDON,</hi> is again rebuilt (though contrary to the expectation of Thouſands) and that more Noble and com<g ref="char:EOLhyphen"/>modious then ever, and that the <hi>Royal Ex<g ref="char:EOLhyphen"/>change</hi> in the ſaid place is now built far more ſplendid and Magnificent then formerly.</p>
+            <p>I have been ſomewhat unwilling to expoſe this ſmall piece to publick view, by reaſon that we are fallen into an age, wherein though a mans primary intentions (in what he under<g ref="char:EOLhyphen"/>takes) be never ſo good and warrantable; yet if they do not ſucceed well, and accord<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:151153:4"/>to the humour and expectation of the vul<g ref="char:EOLhyphen"/>gar, they will immediately thereupon brand his innocence, and reflect upon his Perſon, as if he were guilty of ſome capital crime; but inaſmuch as ſince the late rebuilding of the <hi>Royal Exchange,</hi> I have ſeen none yet extant upon this Subject, I thereupon thought it great pity that ſo Famous and ſo Noble a Structure as this is, ſhould paſs over in ſilence, and not have ſomething by way of <hi>Encomium</hi> expoſed to the World, as to the beauty and Iuſtre thereof. And therefore if you will be pleaſed (night Worthy and much Honoured Citizens) but to make candid Interpretation of my preſent labours (which were only the imployment of a few vacant hours,) I ſhall not then much value or eſteem what the vul<g ref="char:EOLhyphen"/>gar or common ſort of People ſhall ſay or cenſure upon the ſame account, and in ſo do<g ref="char:EOLhyphen"/>ing you ſhall for ever oblige him who is,</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours and Worſhips moſt ready and Faithful Servant to Command,</hi> Theophilus Philalethes.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151153:4"/>
+            <head>To the courteous Reader.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>THeſe enſuing Lines now in thy hands do fairly ſalute you; my hopes are, that you will be ſo courteous as to give ſome ſmall entertainment, and although you ſhall find therein ſome paſſages, not only of a Modern, but of an antient ſtanding; Yet I hope they will not prove unſavory to your guſt, nor offenſive to your occular Sence: For as ſome of our Engliſh liquids, half milde, half stale, is not only wholſom, but toothſom, and by moſt men eſteemed a good compoſition; So alſo here, although there are ſome things which to you peradventure may ſeem ſomewhat impertinent; and beſides the matter in hand, yet in as much as they did ſo freely preſent themſelves to my mind, when I was upon the Survey I could do no leſſe (in common civility) then receive them into custody; And now having mixed them together, I do not question your complacency therein, when you ſhall
+<pb facs="tcp:151153:5"/>have leiſure to peruſe the ſame. As for instance, you will find here a brief Deſcription of the late moſt Dreadful Fire in <hi>LONDON,</hi> Anno Chriſti <hi>1666.</hi> You will find alſo a ſmall hint of the preſent Engagement between His Majesty of <hi>Great Britain,</hi> and the <hi>States General</hi> of the <hi>United Provinces.</hi> You ſhall find alſo, how Queen <hi>Elizabeth</hi> (of ever bleſſed memory) with all her Nobles and Princely Train did come to this stately ſtructure when firſt built by Sir <hi>Thomas Greſham,</hi> and then gave it the name of the <hi>Royal Exchange,</hi> by which denomination it hath continued until the day of the Date hereof, where<g ref="char:EOLhyphen"/>in peradventure we are not ſo exact in all pun<g ref="char:EOLhyphen"/>ctilloes as is thereby deſcribed, (inaſmuch as our Anceſtours have left us in the dark, as to every particular circumstance at that juncture of time) yet in all probability we may ſuppoſe the ſame; You will find alſo, what may probably enſue upon His Majesties late act of Indulgence for tender Conſciences. Theſe, <hi>cum multis aliis quae nunc praeſcribere longum eſt,</hi> &amp;c. I have there inſerted hoping they will not prove offen<g ref="char:EOLhyphen"/>ſive to ſuch as your ſelf, (<hi>viz.</hi> Courteous Rea<g ref="char:EOLhyphen"/>ders) and ſo I bid you Farewell.</p>
+         </div>
+         <div type="verse_introduction">
+            <pb facs="tcp:151153:5"/>
+            <head>The Introduction</head>
+            <l>MY Muſe advance, flye to <hi>Parnaſſus</hi> Hill,</l>
+            <l>Invoke the Nine, for a Poetick Quill;</l>
+            <l>That by their aid thou may'ſt ſtraightway rehearſe</l>
+            <l>To Forreign Nations in plain <hi>Engliſh</hi> Verſe,</l>
+            <l>What thou haſt ſeen, (and is a ſight moſt ſtrange,</l>
+            <l>The Stately Structure of the <hi>Royal Change:</hi>
+            </l>
+            <l>That ſo thereby ſome may induced be,</l>
+            <l>To croſs the Main, this famous Place to ſee.</l>
+            <l>To you therefore, who are of great Renown,</l>
+            <l>In every City, and each Countrey Town,</l>
+            <l>Beyond the Seas, theſe preſent Lines I ſend,</l>
+            <l>Hoping they will not in the leaſt offend</l>
+            <l>Your Ears to hear, or Patience to peruſe:</l>
+            <l>They come not here your Countreys to abuſe</l>
+            <l>With feigned ſtories, or with frothy ſtuff,</l>
+            <l>Whereof your Honours may have cauſe to ſnuff.</l>
+            <l>But they do come you freely to invite</l>
+            <l>Into <hi>Great Britain,</hi> where a ſtately ſight</l>
+            <l>You may behold, which may be worth your coſt</l>
+            <l>To croſs the Main, and think no labour loſt.</l>
+            <pb facs="tcp:151153:6"/>
+            <l>Read but theſe Lines, and therein you ſhall find</l>
+            <l>The Authors aim, when firſt into his mind</l>
+            <l>This Subject came, which he did undertake,</l>
+            <l>Was (pardon his boldneſs) partly for your ſake.</l>
+            <l>And when you venture ſhall on <hi>Engliſh</hi> Ground,</l>
+            <l>His Labours will (and not till then) be crown'd.</l>
+            <l>What is't for you, who have ſo great a Treaſure,</l>
+            <l>To lay ſome by (wherein you'l take great pleaſure)</l>
+            <l>To ſpend in other Countreys, where you may</l>
+            <l>Be freely welcome, or to come, or ſtay:</l>
+            <l>Your very preſence in our <hi>Brittiſh</hi> Iſle,</l>
+            <l>Will make our Countries and our Cities ſmile;</l>
+            <l>The Coyn you bring (which if it be but currant)</l>
+            <l>Will be to them a good ſufficient Warrant,</l>
+            <l>For your Paſs-port, where ever you ſhall call,</l>
+            <l>Without the leaſt ſuſpicion to <hi>Whitehall</hi>
+            </l>
+            <l>Of any danger that may thence enſue,</l>
+            <l>By letting in ſuch noble Sparks as you</l>
+            <l>Into our Iſland, where you may be ſure</l>
+            <l>To find ſuch Friends, as will you ſoon procure</l>
+            <l>That favour here, which all eſteem a bliſs,</l>
+            <l>As 'tis indeed, our <hi>Caeſars</hi> Hand to kiſs.</l>
+            <l>Come therefore Gallants, (ſome of every Tribe)</l>
+            <l>To ſee this Place which we will now deſcribe.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:151153:6"/>
+            <head>A Brief DESCRIPTION OF THE Royal Exchange.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Ithin the limits of <hi>Great Britains</hi> Land,</l>
+               <l>Where <hi>Charles the Second</hi> hath the ſole Command</l>
+               <l>Of Regal Power, and of all that brings</l>
+               <l>Safety to Crowns, and Honour unto Kings,</l>
+               <l>There ſtands a City, large, fair, and immenſe,</l>
+               <l>As well in Length, as in Circumference;</l>
+               <l>Whoſe Banks are daily waſhed on each ſide,</l>
+               <l>By <hi>Thames</hi> great River every Eaſtern Tide:</l>
+               <l>Ith' midſt whereof this Royal Place doth ſtand,</l>
+               <l>Lately enlarged by the Kings Command,</l>
+               <l>In Statute-Law, as plainly doth appear,</l>
+               <l>By thoſe high Arches facing Front and Rear.</l>
+               <l>This is the Subject of our preſent Muſe;</l>
+               <l>And if we thought we ſhould not much abuſe</l>
+               <l>Your patience here, ſome lines for to rehearſe,</l>
+               <l>Wee'll firſt preſent you in plain <hi>Engliſh</hi> Verſe,</l>
+               <pb n="2" facs="tcp:151153:7"/>
+               <l>Not a Romantick, but a real Story,</l>
+               <l>Which did of late eclipſe <hi>Great Britains</hi> Glory.</l>
+               <l>
+                  <note place="margin">The great Fire in <hi> Lon<g ref="char:EOLhyphen"/>don, An. Dom.</hi> 1666.</note>This City then was lately burned down,</l>
+               <l>
+                  <hi>LONDON</hi> by name, though then a doleful Town,</l>
+               <l>As ever eyes beheld, a diſmal ſight;</l>
+               <l>The Sun, the Moon, and Stars that ſhine ſo bright,</l>
+               <l>Were then out-vi'd by a moſt dreadful Flame,</l>
+               <l>Sent from above in great <hi>Jehovahs</hi> Name,</l>
+               <l>For to chaſtiſe us, and to let us know,</l>
+               <l>That when luke-warm, and have no heat to ſhow,</l>
+               <l>He can ſtraightway raiſe ſuch an <hi>Eastern</hi> Gale,</l>
+               <l>As ſhall, at length, make all our faces pale,</l>
+               <l>As then he did, becauſe we wanted heat,</l>
+               <l>And now behold, our very Houſes ſweat,</l>
+               <l>As well as Bodies, by that ſcorching Fire,</l>
+               <l>Which then did burn, and never did expire,</l>
+               <l>Until ſuch time as it had burned down</l>
+               <l>Twelve thouſand Houſes to the very ground.</l>
+               <l>Our ſtately Halls, our Churches, and our Quire,</l>
+               <l>Were the made fuel to that dreadful fire;</l>
+               <l>Our <hi>Royal Change,</hi> which was of ſo great fame</l>
+               <l>O're all the world, unto this dreadful flame</l>
+               <l>Was forc'd to ſtoop; where now you might eſpy</l>
+               <l>Our antient Kings in aſhes there to lie:</l>
+               <l>This doleful object troubled us much more,</l>
+               <l>Then many ſights which we had ſeen before,</l>
+               <l>Sir <hi>Thomas</hi> ſtood, the Founder of the Place,</l>
+               <l>And this was deem'd by all an act of Grace,</l>
+               <l>That this great Torrent ſhould him ſo be friend,</l>
+               <l>As not to pieces his Trunck breeches rend.</l>
+               <l>It ſpar'd no place where ever it did come,</l>
+               <l>But Giant-like rejoyc'd his race to run:</l>
+               <pb n="3" facs="tcp:151153:7"/>
+               <l>All hands were now at work the ſame to quench;</l>
+               <l>And now behold, the <hi>Dutchmen</hi> and the <hi>French,</hi>
+               </l>
+               <l>Some ſaid, were up in arms, and in <hi>Moor-fields,</hi>
+               </l>
+               <l>The noiſe whereof caus'd ſome to take their heels,</l>
+               <l>And to the Countreys round about did flye,</l>
+               <l>Where cutting throats was all their preſent cry.</l>
+               <l>Who can expreſs the horrour of that night,</l>
+               <l>VVhen people cry'd, Prepare your ſelves for flight;</l>
+               <l>The <hi>French</hi> and <hi>Dutch</hi> reſolve to take our lives,</l>
+               <l>And when we are dead, they'l raviſh all our Wives.</l>
+               <l>What ſhall we do in this moſt deſperate plight,</l>
+               <l>But take our heels, and ſave our ſelves by flight.</l>
+               <l>Though this prov'd falſe, yet to the preſent crew</l>
+               <l>It was all one, as if it had been true:</l>
+               <l>Their fears, their frights, their terrours were the ſame,</l>
+               <l>Until the news into the Countrey came,</l>
+               <l>It was not ſo; whereat the total Rout,</l>
+               <l>Who had eſcap'd, began to face about,</l>
+               <l>And to the City once again inclin'd,</l>
+               <l>To fetch the Goods which they had left behind,</l>
+               <l>If not already burnt, and ſtoln away</l>
+               <l>By that rude ſort, who now did make a prey</l>
+               <l>of peoples Goods; and by this ſinful itch</l>
+               <l>Of ſtealing then, they did themſelves enrich.</l>
+               <l>The Alarum falſe, much people now again</l>
+               <l>Uſe all endeavours for to quench that flame,</l>
+               <l>Which by this time had run nigh well ſo far,</l>
+               <l>As thoſe great Gates which we call <hi>Temple-bar.</hi>
+               </l>
+               <l>Our King himſelf in perſon did appear,</l>
+               <l>To give Commands, and Workmen for to chear;</l>
+               <l>The ſight whereof did pierce his heart with grief,</l>
+               <l>Although his Preſence gave us much relief,</l>
+               <l>In giving ſtrict Commands unto his Guard,</l>
+               <l>Within our ſtreets to keep ſtrong Watch and Ward;</l>
+               <pb n="4" facs="tcp:151153:8"/>
+               <l>Leſt the rude Rabble in this doleful hour</l>
+               <l>Should paſs the limits of his Kingly Power;</l>
+               <l>And getting head, they ſhould now in concluſion</l>
+               <l>Bring all things here to ruine and confuſion:</l>
+               <l>Which to prevent, he marched round our City,</l>
+               <l>And of our preſent caſe did then take pity.</l>
+               <l>The penſive looks in his Majeſtick Face</l>
+               <l>Did clearly ſhew how much he lov'd the place.</l>
+               <l>Our Pipes did run, our Engines they did play,</l>
+               <l>Our Wives did cry, our Miniſters did pray:</l>
+               <l>But all in vain, for ſtill it did proceed</l>
+               <l>Along our ſtreets, with ſury and with ſpeed.</l>
+               <l>But then at length, in mercy to our City,</l>
+               <l>The Lord himſelf did of our caſe take pity;</l>
+               <l>He that doth ſay unto the raging Seas,</l>
+               <l>You ſhall not paſs beyond the bounds I pleaſe:</l>
+               <l>He that doth ſend the dreadful claps of Thunder,</l>
+               <l>He that is ſeen in all his works of wonder;</l>
+               <l>'Twas he that ſaid unto this dreadful Fire,</l>
+               <l>Stop in this place, enough now of mine ire;</l>
+               <l>Call'd in his winds within their houſe of ſtore,</l>
+               <l>And then ſtraightway the fire burnt no more.</l>
+               <l>And having ſtayed his moſt dreadful hand,</l>
+               <l>Much people ſince from all parts in the Land,</l>
+               <l>Have been at work, the ſame again to build;</l>
+               <l>Whereat our hearts with joy hath ſince been fill'd,</l>
+               <l>As formerly with grief, in hopes that now,</l>
+               <l>If God will pleaſe but yet to ſpeed the Plow:</l>
+               <l>And in our Land ſtill to continue Peace,</l>
+               <l>Our City Trade ſhall more and more increaſe:</l>
+               <l>And in ſhort time this place ſhall Houriſh more,</l>
+               <l>Then it hath done for many years before.</l>
+               <l>Heavens ſay Amen, and fend it with all ſpeed,</l>
+               <l>(This we will hope) And now my muſe proceed</l>
+               <pb n="5" facs="tcp:151153:8"/>
+               <l>Unto thy main and principal deſign</l>
+               <l>At firſt intended, namely to define</l>
+               <l>The preſent ſtate, and laſtrie of that place</l>
+               <l>Which now is built, with ſo much greater grace</l>
+               <l>Then formerly, that here thou muſt confeſs,</l>
+               <l>Unto the life thou canſt not well expreſs,</l>
+               <l>Onely may hope, that when thy ſlender Skill</l>
+               <l>Hath broke the Ice, ſome more refined Quill</l>
+               <l>May venture on the Stage, and be the next</l>
+               <l>That ſhall (with Art) enlarge upon this Text.</l>
+               <l>And ſince thou haſt unto thy Reader bound</l>
+               <l>Thy ſelf by promiſe, go ſurvey the Ground</l>
+               <l>Yet once again, before that thou doſt come</l>
+               <l>Upon the publick ſtage; when this is done,</l>
+               <l>Fairly retreat from off this piece of Land;</l>
+               <l>Take now thy Reader (gently) by the hand,</l>
+               <l>Conduct him hither, where thou ſhalt him ſhow</l>
+               <l>The Walks above, and alſo them below;</l>
+               <l>And all things elſe what e're he ſhall deſire,</l>
+               <l>As being curious, of thee will enquire.</l>
+               <l>Be not too haſty in thy Definition,</l>
+               <l>Go on and proſper, this is thy Commiſſion:</l>
+               <l>Go on, I ſay, then with a chearful heart,</l>
+               <l>Beg of thy Readers, that they in good part</l>
+               <l>VVill take this preſent Piece, and be ſo kind,</l>
+               <l>As to the faults therein that they ſhall find,</l>
+               <l>To paſs them by, becauſe they muſt confeſs,</l>
+               <l>VVe all our faults have, either more or leſs;</l>
+               <l>VVhich if to us they ſhould imputed be,</l>
+               <l>VVho then amongſt us would eſcape ſcot-free?</l>
+               <l>Come Reader then, let us joyn hand in hand,</l>
+               <l>And take a view of this rich-Piece of Land,</l>
+               <l>VVhich at this day, by VVill and Teſtament</l>
+               <l>Of a good Knight, and Act of Parliament,</l>
+               <pb n="6" facs="tcp:151153:9"/>
+               <l>Our City and the Mercers do uphold,</l>
+               <l>And will maintain it as their juſt Free-hold;</l>
+               <l>While Sun, and Moon, and Stars ſhall give their light,</l>
+               <l>They'l ne're forget Sir <hi>Thomas Greſham</hi> Knight;</l>
+               <l>That good old Man, who for this Cities ſake,</l>
+               <l>This ſtately Fabrick firſt did undertake:</l>
+               <l>And when he died, he left it unto them,</l>
+               <l>And to the Mercers, as Truſtees for him.</l>
+               <l>Where by the way, we muſt now here delare</l>
+               <l>What e're th'intentions of Sir <hi>Thomas</hi> were</l>
+               <l>In his life-time, and left to them by Will,</l>
+               <l>They do not fruſtrate, but the ſame fulfill</l>
+               <l>In all punctilioes, if it chance to be</l>
+               <l>An act of Grace, and his late Charity.</l>
+               <l>He was the Founder of this ſtately Place,</l>
+               <l>Which when compleat, (this good old man to grace)</l>
+               <l>The Quueen her ſelf in perſon did appear,</l>
+               <l>(Whoſe preſence always did her Subjects chear)</l>
+               <l>With all her Nobles, and her Princely Train,</l>
+               <l>She came on purpoſe for to ſee the ſame;</l>
+               <l>Where viewing it with a Majeſtick Grace,</l>
+               <l>(The people from all parts flockt in apace;</l>
+               <l>And throwing up their Caps, aloud did cry,</l>
+               <l>
+                  <hi>Vive la Regne,</hi> God bleſs your Majeſty)</l>
+               <l>And muſing for a while, She ſilence brake,</l>
+               <l>And to her Nobles round about her ſpake,</l>
+               <l>My Lords, ſaid ſhe, this place which I behold,</l>
+               <l>Coſt this brave Knight ſure many Crowns in Gold;</l>
+               <l>I much rejoyce this Infant place to ſee:</l>
+               <l>Speak good Sir <hi>Thomas,</hi> what the Name ſhall be;</l>
+               <l>For being nameleſs, now I have a mind</l>
+               <l>To be your Goſſip, if you are inclin'd</l>
+               <l>Thereto, ſaid ſhe; whereat the courteous Knight</l>
+               <l>Did ſoon reply, My Liege, your very ſight</l>
+               <pb n="7" facs="tcp:151153:9"/>
+               <l>Doth ſo tranſport me, that I cannot well</l>
+               <l>Expreſs my ſelf, your Grace my mind to tell.</l>
+               <l>But ſince I may, with boldneſs ſoar ſo high,</l>
+               <l>As to the Ears, of Sacred Majeſtie;</l>
+               <l>Aſſume to ſpeak, my Leige as to the name,</l>
+               <l>Unto your ſelf I ſhall refer the ſame</l>
+               <l>Whereat the pleaſant Queen, before them all,</l>
+               <l>Above did name it, The <hi>Exchange Royal.</hi>
+               </l>
+               <l>Such acclamations then, as were up ſent</l>
+               <l>Out of their mouths into the firmament</l>
+               <l>Who were the ſtanders by we muſt confeſs</l>
+               <l>Here to the life. Our muſe cannot Expreſs</l>
+               <l>Such was the greatneſs of the peoples cry</l>
+               <l>Their very ſhouts did ſeem to rend the Sky,</l>
+               <l>Such was the greatneſs of the preſent throng</l>
+               <l>The Queen her ſelf could hardly paſs along</l>
+               <l>And ſtill the burden of their preſent cry:</l>
+               <l>Was <hi>Vive la Regne,</hi> God bleſs your Majeſty.</l>
+               <l>She likewiſe ſtill, did for her people pray,</l>
+               <l>And this was that, which ſtole their hearts away;</l>
+               <l>What er'e ſhee ask'd, they never did deny</l>
+               <l>What er'e they crav'd, Shee did as ſoon reply,</l>
+               <l>It ſhall be done, unto your hearts content,</l>
+               <l>And paſſed too, by Act of Parliament,</l>
+               <l>This Ladies virtues, then did ſhine ſo bright</l>
+               <l>Like glorious <hi>Cynthia</hi> in the lighteſt night.</l>
+               <l>And being dead, her fame ſhall yet ſurvive</l>
+               <l>Or'e many Thouſands, that are yet alive.</l>
+               <l>Here I ſhould leave Her, but as I do write,</l>
+               <l>Her very Name, doth help me to indite</l>
+               <l>This then was She, Who did the Scepter ſway</l>
+               <l>When the ſtout Engliſh bravely won the day,</l>
+               <l>Near <hi>Tilbury-hope,</hi> when the proud Spaniſh Fleet</l>
+               <l>Did boldly come, this Nation for to greet</l>
+               <pb n="8" facs="tcp:151153:10"/>
+               <l>But this brave Queen, did ſtraightway check their pride,</l>
+               <l>Her Heart of Oak ſerv'd both for Wind and Tyde;</l>
+               <l>Her Royal preſence, on our <hi>Engliſh</hi> Shoar,</l>
+               <l>Did make our demy, and whole Canons roar;</l>
+               <l>Her valiant Sea-men with Sir <hi>Francis Drake,</hi>
+               </l>
+               <l>Did quickly make the <hi>Spaniards</hi> for to quake;</l>
+               <l>The like ſucceſs, we hope e're long to ſee,</l>
+               <l>O're <hi>Hogan Mogans,</hi> that ſo lofty be,</l>
+               <l>Who would ſupplant us in our preſent Trade,</l>
+               <l>And in our Rights ſo frequently invade,</l>
+               <l>Nor will they ſtrike within our Royal Channel,</l>
+               <l>Until we bear them like a water Spannel,</l>
+               <l>(When as we teach him for to fetch and carry,</l>
+               <l>This way or that way, or the clear contrary)</l>
+               <l>Which we will do, when they top-Gallant ride,</l>
+               <l>(And will not congy) by our Veſſels ſide;</l>
+               <l>We'l make them know, that <hi>Engliſh</hi> men are ſuch,</l>
+               <l>Who ſcorn to ſtoop to the inſulting <hi>Dutch;</hi>
+               </l>
+               <l>So long as <hi>Engliſh</hi> Blood our Veins do fill,</l>
+               <l>We will not buckle to their ſtubborn will,</l>
+               <l>Ungrateful States, who have ſo ſoon forgot</l>
+               <l>Our former kindneſs, and now heed it not;</l>
+               <l>Much like a Thief ſav'd from the Gallow Tree,</l>
+               <l>Next man he robs, perhaps the Judg may be.</l>
+               <l>They are the firſt who lately broke the Peace,</l>
+               <l>And now perhaps they melt in their own Greaſe,</l>
+               <l>For doing ſo, and for their wrongs of late,</l>
+               <l>Our <hi>Engliſh</hi> Boys may ſoon give them check mate,</l>
+               <l>Our Royal <hi>Charles</hi> may quickly let them ſee,</l>
+               <l>What 'tis t'abuſe his ſacred Majeſty</l>
+               <l>In Print and Pulpit as they oft have done,</l>
+               <l>On purpoſe to Eclipſe our riſing sun,</l>
+               <l>And though we know his temper ſtill is ſuch,</l>
+               <l>To be at Peace with theſe ungrateful <hi>Dutch,</hi>
+               </l>
+               <pb n="9" facs="tcp:151153:10"/>
+               <l>As well as with their Neighbours round about,</l>
+               <l>Yet if they come but once to be ſo ſtout,</l>
+               <l>As to break Truce with him, and for to jar,</l>
+               <l>He can as ſoon appear a Man of War:</l>
+               <l>Let them take heed leaſt that perchance we ſee,</l>
+               <l>Them once again diſtreſſed States to be,</l>
+               <l>If they ſhall want our help we may deny,</l>
+               <l>Becauſe of their inſulting treachery,</l>
+               <l>If we ſhould then but leave them in the lurch,</l>
+               <l>We ſoon may ſay a dieu unto the <hi>Dutch,</hi>
+               </l>
+               <l>And unto all their jugling tricks of ſtate,</l>
+               <l>For which they give the World ſuch cauſe to prate</l>
+               <l>Of all their actions, which to us are known,</l>
+               <l>For which, ſome ſay they will be overthrown.</l>
+               <l>Let them remember that <hi>Amboyna</hi> Blood</l>
+               <l>Cries yet aloud (although not underſtood</l>
+               <l>By theſe great States) and will them overtake,</l>
+               <l>Sooner, or later when they muſt partake</l>
+               <l>Of Divine Juſtice, and for ought we know</l>
+               <l>Now is the time, wherein our God will ſhew</l>
+               <l>His Arm againſt them, for thoſe deeds then done,</l>
+               <l>Which was a ſhame unto all Chriſtendom,</l>
+               <l>fitting for none to act but onely ſuch,</l>
+               <l>Who ſtile themſelves the <hi>Hogan Mogan Dutch,</hi>
+               </l>
+               <l>A ſtile too great for Mortals to aſſume,</l>
+               <l>And for this pride, Heaven may now them conſume.</l>
+               <l>If they ſhall boaſt the liberty they give</l>
+               <l>To Non-conformiſts, we alſo do live,</l>
+               <l>Under a Prince, whoſe late indulgent care,</l>
+               <l>Unto ſuch men, who Non-conformiſts are,</l>
+               <l>Is to protect them, and to ſet them free,</l>
+               <l>From penal Laws, and all things elſe that be</l>
+               <l>Alike offenſive in our <hi>Engliſh</hi> Church,</l>
+               <l>No good preſage ſome ſay unto the <hi>Dutch;</hi>
+               </l>
+               <pb n="10" facs="tcp:151153:11"/>
+               <l>For by this means, we ſay his fame will ring</l>
+               <l>Over all <hi>Europe</hi> for a Gracious King,</l>
+               <l>This liberty for which ſo many lives</l>
+               <l>Have paid ſo dear, is brought home to our hives</l>
+               <l>When unexpected, Oh! the lively ſence</l>
+               <l>That ſome now have, of this great providence;</l>
+               <l>Nay ſome do ſay, that for this act and deed</l>
+               <l>His preſent Warrs, will proſperouſly ſucceed</l>
+               <l>And all things elſe that he ſhall take in hand</l>
+               <l>For time to come, either by Sea or Land</l>
+               <l>And after that, our Trade ſhall flouriſh more</l>
+               <l>Then it hath done, for many years before</l>
+               <l>Heaven's ſay Amen. Now if it be your will</l>
+               <l>When this is done, Let peace continue ſtill</l>
+               <l>Wee hope there's none will now be plotting treaſon</l>
+               <l>Againſt the Crown and Dignity of Reaſon.</l>
+               <l>For ſince we have, this Edict from <hi>White-hall</hi>
+               </l>
+               <l>In things Divine and Supernatural</l>
+               <l>We all all alike, the liberty ſhall have,</l>
+               <l>To worſhip where we pleaſe, what can we crave,</l>
+               <l>Now more then this? Unleſs we male content</l>
+               <l>And will be worſe, for all that puniſhment,</l>
+               <l>Which hath ſo long been trampling on our head,</l>
+               <l>But by Gods bleſſing now is brought to bed,</l>
+               <l>And fairly lodg'd within our <hi>Caezars</hi> Breaſt,</l>
+               <l>By which ſaid means, His Subjects are at reſt,</l>
+               <l>From all thoſe preſſures which they underwent,</l>
+               <l>Since his return, by Act of Parliament,</l>
+               <l>Although averſe unto his diſpoſition,</l>
+               <l>Which is that all, ſhould have a full fruition,</l>
+               <l>Of what, they do deſire, if they will,</l>
+               <l>But live in peace and ſo continue ſtill.</l>
+               <l>VVhich we do hope, they will not dare to break,</l>
+               <l>VVho now ſhall have, the liberty to ſpeak,</l>
+               <pb n="11" facs="tcp:151153:11"/>
+               <l>To their own people; they all to hear,</l>
+               <l>Their own great Doctors which they count ſo dear,</l>
+               <l>VVhich if they ſhould now turbulent remain,</l>
+               <l>Then they ſhould know he doth not bear in vain</l>
+               <l>His ſacred Sword, which is to puniſh ſuch,</l>
+               <l>VVho ſhall be like to the inſulting <hi>Dutch;</hi>
+               </l>
+               <l>VVe for our own part now have more content,</l>
+               <l>Than when we liv'd under that Government</l>
+               <l>Sirnam'd the <hi>Rump,</hi> and after that another</l>
+               <l>when we were made ſo much a younger Brother</l>
+               <l>By <hi>Nol</hi> himſelf, who would not have a King,</l>
+               <l>Yet afterwards he own'd the ſelf ſame thing.</l>
+            </lg>
+            <lg>
+               <l>Come now good Reader let us fairly on,</l>
+               <l>The Skies are clear, the bluſtring ſtorms are gone,</l>
+               <l>There's nothing here I know that can affright thee,</l>
+               <l>But rather that which will (I hope) delight thee.</l>
+               <l>This pleaſant place, which now thou doſt eſpie,</l>
+               <l>VVas ſo much graced by his Majeſtie,</l>
+               <l>That now the Scepter ſwayes within our Land,</l>
+               <l>He the firſt Pillar with his Royal hand</l>
+               <l>Did place therein, and after that his Brother</l>
+               <l>
+                  <hi>James</hi> Duke of <hi>York</hi> did alſo place another.</l>
+               <l>Theſe Royal ſtems of Majeſty and Grace,</l>
+               <l>Did bear ſuch love, and good will to this place,</l>
+               <l>That they themſelves in perſon did appear,</l>
+               <l>To give their aid the ſame again to rear,</l>
+               <l>Theſe acts of Grace are counted ſo Divine</l>
+               <l>A Shop, above have got them for a Sign,</l>
+               <l>Theſe Royal Pillars on the North ſide ſtand,</l>
+               <l>With Crowns and Septers (by induſtrious hand</l>
+               <l>Of curious workmen) carved round about,</l>
+               <l>As a diſtinction for the common rout,</l>
+               <pb n="12" facs="tcp:151153:12"/>
+               <l>To know them from the reſt, that they may ſee,</l>
+               <l>There they ſhall ſtand unto poſterity,</l>
+               <l>As two great ſignals of their preſent love,</l>
+               <l>For which we pray the God of Heaven above,</l>
+               <l>Them to reward in everlaſting Glory,</l>
+               <l>This ſhall ſuffice then for the Pillars ſtory.</l>
+            </lg>
+            <lg>
+               <l>Come Courteous Reader, let us paſs on ſtill,</l>
+               <l>We have a mind our promiſe to fulfill,</l>
+               <l>In all reſpects, whereby to make thee know,</l>
+               <l>Wherein this place doth make ſo fair a ſhew.</l>
+            </lg>
+            <lg>
+               <l>In Walks below, the Merchants daily meet,</l>
+               <l>The Vaults beneath contain the <hi>Indian</hi> Fleet,</l>
+               <l>The Walks above contain now Riches more,</l>
+               <l>Than ſome tall Ships, which from the <hi>Indian</hi> Shoar,</l>
+               <l>Do yearly come into our <hi>Brittiſh</hi> Iſſe,</l>
+               <l>Whoſe ſafe arrival makes our Merchants ſmile,</l>
+               <l>Whoſe lofty Tower Mounted is ſo high,</l>
+               <l>To us below it ſeems to reach the Sky,</l>
+               <l>Look on the top, and there you may behold,</l>
+               <l>The Founders creſt, bedecked all in Gold,</l>
+               <l>This lofty Creature doth at all times ſhew,</l>
+               <l>Our City Merchants where the Wind doth blow,</l>
+               <l>From whence they daily do preſage no doubt,</l>
+               <l>Their Ships are coming in or going out.</l>
+               <l>
+                  <note n="*" place="margin">The Sun Tavern be hind the <hi>Exchange,</hi> the Sign whereof was put up in the night time.</note> 
+                  <hi>Sols</hi> lofty Palace, on high Pillars rais'd,</l>
+               <l>And ſtately Rooms which are ſo highly prais'd,</l>
+               <l>Seems but a ſhadow to this ſtately place;</l>
+               <l>Nay <hi>Sol</hi> himſelf for fear of a diſgrace,</l>
+               <l>Creeps now behind it, and dares not appear</l>
+               <l>I th' front thereof, but only in the rear;</l>
+               <l>For when at firſt he did this place behold,</l>
+               <l>And on the top ſo much refulgent Gold,</l>
+               <pb n="13" facs="tcp:151153:12"/>
+               <l>As if on purpoſe it were placed there,</l>
+               <l>For to confront him in his full carreer,</l>
+               <l>He then withdrew his radiant Beams of light,</l>
+               <l>Set for a while, and after in the night,</l>
+               <l>(When moſt men are at reſt and faſt a ſleep)</l>
+               <l>Rais'd up his baſhful head, and then did creep</l>
+               <l>Out of his Bed again, his courſe to run,</l>
+               <l>Although unuſual for the Morning Sun,</l>
+               <l>Then to get up, a moſt prodigious fight,</l>
+               <l>Bright <hi>Sol</hi> that rules the day, to riſe at night,</l>
+               <l>A thing moſt ſtrange (yet not ſo ſtrange as true)</l>
+               <l>And if you'd know, why he him ſelf withdrew</l>
+               <l>That pay before, and now in ſable night,</l>
+               <l>To uſe again to take his future flight,</l>
+               <l>The reaſon flow'd from what he had eſpied,</l>
+               <l>Much troubled was to ſee himſelf outvied,</l>
+               <l>And thereupon withdrew his Beams ſo Red,</l>
+               <l>Took off a Gill, and fairly went to bed,</l>
+               <l>But being up, he with redoubled ſtrength,</l>
+               <l>Did in a trice regain the former length,</l>
+               <l>Which he had loſt, leaſt that the world next Morn,</l>
+               <l>Should think him loſt, and they themſelves forrorn,</l>
+               <l>As left without a Sun, he thought it beſt,</l>
+               <l>Again to riſe to welcome all his Gueſt,</l>
+               <l>And that he might be ſomewhat like this place,</l>
+               <l>And not for ever ſuffer ſuch diſgrace;</l>
+               <l>He ſtraight way goes into his ſtately Hall,</l>
+               <l>Where all the Planets to his Councel call,</l>
+               <l>Where <hi>Luna</hi> for the Sun did bravely plead,</l>
+               <l>Bills of complaint he unto them did read,</l>
+               <l>The Cauſe debated, they with one conſenr,</l>
+               <l>(Juſt as our Members now in Parliament)</l>
+               <l>Did then reſolve (where at the Sun did hollow)</l>
+               <l>That now god <hi>Bacchus</hi> and the great <hi>Apollo,</hi>
+               </l>
+               <pb n="14" facs="tcp:151153:13"/>
+               <l>They would conſult, and eke petition too,</l>
+               <l>In this hard Caſe, what they therein ſhould doo,</l>
+               <l>Whereat theſe feigned gods did ſoon reply,</l>
+               <l>Since unto us you do your ſelves apply,</l>
+               <l>Take this for anſwer to your ſaid petition,</l>
+               <l>And unto you it ſhall be a Comiſſion,</l>
+               <l>That to our workmen you do ſoon repair,</l>
+               <l>And let them know that they impowered are,</l>
+               <l>VVith full Commiſſion from the God above,</l>
+               <l>(Becauſe this place they do reſpect and love)</l>
+               <l>That ſome reſemblance to th' <hi>Exchange</hi> they make,</l>
+               <l>VVithin <hi>Sol</hi>'s houſe for great <hi>Apollo</hi>'s ſake,</l>
+               <l>VVhereat our lofty sun was highly pleas'd,</l>
+               <l>And of his former grief was quickly eas'd,</l>
+               <l>For ſince that time he hath (much people talk)</l>
+               <l>The <hi>French,</hi> the <hi>Spaniſh</hi> and the <hi>German</hi> walk,</l>
+               <l>So well contrived in his Vaults below,</l>
+               <l>VVhere <hi>Bacchus</hi> now doth make ſo fair a ſhew,</l>
+               <l>That people flock there now by day and night,</l>
+               <l>On purpoſe to aſpect this comely ſight,</l>
+               <l>And for to taſt ſome of his wholeſom Liquor,</l>
+               <l>To purge their Brains, and make their Tongues quicker,</l>
+               <l>Come gentle Reader, let's now leave the Sun</l>
+               <l>Unto himſelf, and once again return,</l>
+               <l>Unto your former ſtation, where we may</l>
+               <l>Give you account ſtill of our late ſurvey,</l>
+               <l>Look round about it, and you may behold,</l>
+               <l>places prepared for our Kings of old,</l>
+               <l>And Queens alſo, who have the Scepter ſway'd,</l>
+               <l>In this our Iſland (though in aſhes laid)</l>
+               <l>From good King <hi>Edward,</hi> and the <hi>Norman</hi> race,</l>
+               <l>VVho gain'd by conqueſt this moſt pleaſant place,</l>
+               <l>That ſo thereby we may their Memories keep,</l>
+               <l>Yet freſh with us, though they are faſt aſleep;</l>
+               <pb n="15" facs="tcp:151153:13"/>
+               <l>Here in the Front our Royal <hi>Charles</hi>'s ſtand</l>
+               <l>Like <hi>Roman Caeſars,</hi> when they gave Command</l>
+               <l>Unto their Souldiers, ſtoutly for to Fight</l>
+               <l>VVhen as aſſaulted, or by day or night,</l>
+               <l>VVith Forreign force, or by Domeſtick jars,</l>
+               <l>And if Victorious in thoſe bloody VVars,</l>
+               <l>They had ſuch marks of honour and renown</l>
+               <l>In every City, and each Countrey Town</l>
+               <l>Conferr'd upon them, that they ſeldom were</l>
+               <l>Found to be ſuch, who ran away for fear.</l>
+               <l>Such marks of honour thoſe may now expect,</l>
+               <l>(VVhen the <hi>Dutch</hi> pride ſeverely ſhall be checkt.)</l>
+               <l>VVho now like Sons of <hi>Mars,</hi> in Men of VVar</l>
+               <l>Shall ſcorn to ſtinch either for VVound or Scar,</l>
+               <l>Until they ſhall both Fame and Honour bring</l>
+               <l>Home to their Countrey, and to <hi>Charles</hi> their King.</l>
+               <l>VVho for their Valour will them well Reward,</l>
+               <l>Since to his Honour they had ſuch regard.</l>
+               <l>View now this Front, and there thou mayſt eſpy</l>
+               <l>Such curious work, fitting for Majeſty</l>
+               <l>It ſelf to dwell in; And we do believe,</l>
+               <l>In all thy Travels thou did'ſt ne're perceive</l>
+               <l>A place like this; and herein thou mayſt ſay</l>
+               <l>To all rhe reſt, that they now muſt give way.</l>
+               <l>Out Merchants which our Shops do greatly ſtore,</l>
+               <l>From <hi>Aſia, Africk,</hi> and the <hi>Indian</hi> Shore,</l>
+               <l>VVith Pearls and Diamonds, and ſuch other VVare</l>
+               <l>VVhich in our Country are eſteem'd moſt rare.</l>
+               <l>Theſe do averre, and give it under-hand</l>
+               <l>In all their Travels, or by Sea or Land</l>
+               <l>From <hi>Eaſt</hi> to <hi>Weſt,</hi> from <hi>North</hi> to <hi>Sonthern</hi> ſide</l>
+               <l>There's not the like, in all the VVorld ſo wide.</l>
+               <l>So that we may, with Confidence declare,</l>
+               <l>There's none with us can equally Compare.</l>
+               <pb n="16" facs="tcp:151153:14"/>
+               <l>We have the Phoenix in our <hi>Engliſh</hi> Nation,</l>
+               <l>All thoſe that view it, ſtand in admiration.</l>
+               <l>View but the Stars here on the Southern ſide,</l>
+               <l>And thou ſhalt ſee ſome reaſon for our pride,</l>
+               <l>And preſent boaſting; when we ſay there's none</l>
+               <l>Which can compare unto this place of Stone.</l>
+               <l>Look now, my Friend, here is a piece of Art</l>
+               <l>That is enough to make a wiſe man ſtart,</l>
+               <l>And wonder too, how theſe Steps hang together,</l>
+               <l>And fear no Weight, nor any ſtreſs of Weather</l>
+               <l>That ſhall confront them, for to make them yield,</l>
+               <l>They'r ſtouter Souldiers then to quit the field,</l>
+               <l>Since they are placed by the Workmans skill,</l>
+               <l>they ſcorn to flinch, but will continue ſtill.</l>
+               <l>Theſe we may call a Family of Love;</l>
+               <l>Though fixt by Mortals, yet ſent from above,</l>
+               <l>As if it were to ſhame this generation</l>
+               <l>Who will not hear of an accommodation</l>
+               <l>'Twixt one another; but are ſtill ſo high</l>
+               <l>As if they could not from each other fly</l>
+               <l>Scarce far enough. Such is their childiſh heat</l>
+               <l>They'l play at Puſh-pin, till they all do ſweat.</l>
+               <l>Do but obſerve how theſe love one another,</l>
+               <l>They all agree, like Siſter and like Brother:</l>
+               <l>Joyn hand in hand, and ſo all hang together,</l>
+               <l>And by this means you cannot now them ſever.</l>
+               <l>If you break one, you muſt break all the reſt,</l>
+               <l>And herein lies the Cream of this our Jeſt:</l>
+               <l>If we now do the like in this our Land,</l>
+               <l>Live but in Peace, and all joyn hand in hand;</l>
+               <l>And let but out theſe bitter ſtreams of ſtrife,</l>
+               <l>Which at this day, amongſt us are ſo riſe:</l>
+               <l>Then by this means (O that we were all ſuch)</l>
+               <l>We need not fear the <hi>Hogan Mogan Dutch;</hi>
+               </l>
+               <pb n="17" facs="tcp:151153:14"/>
+               <l>Nor Turk, nor Pope, nor any thing that ſhall</l>
+               <l>But ſeem pernicious to our King's <hi>White-hall.</hi>
+               </l>
+               <l>The Work-man here hath ſhew'd his preſent skill;</l>
+               <l>By which it ſeems, he hath his Art at will.</l>
+               <l>His rare Invention here is to the life;</l>
+               <l>Surely 'twas not by ſetting Stones at ſtrife,</l>
+               <l>But ſince it was, by joyning them together,</l>
+               <l>Which makes them ſtrong, againſt all ſtreſs or weather.</l>
+               <l>And now our hearts, if that they will not break,</l>
+               <l>Theſe Stones hereafter may againſt them ſpeak,</l>
+               <l>And riſe in Judgment at Heav'ns Juſtice-hall,</l>
+               <l>And there together may bear witneſs all</l>
+               <l>Againſt us Mortals. Why? Becauſe that we</l>
+               <l>Will not now live in Love and Charity.</l>
+               <l>The times now call us to a fair retreat;</l>
+               <l>Our Trumpets ſound, our Drums to War they beat:</l>
+               <l>And ſhall we ſtill build on this Sandy ground?</l>
+               <l>(Like a Mill-horſe, that goes the ſelf-ſame round)</l>
+               <l>For ſhame let's now advance, our ſelves to Arms,</l>
+               <l>With one conſent to meet theſe proud alarms,</l>
+               <l>From thoſe who are our preſent mortal Foes,</l>
+               <l>And will not yield, until with down-right blows</l>
+               <l>We ſhall broad-ſide them, when, we do not fear</l>
+               <l>We ſhall ſo Maul them, both in Front and Reer,</l>
+               <l>That they ſtraightway will ſtrike unto our Flag,</l>
+               <l>Although at preſent they ſo much do brag.</l>
+               <l>Let's now advance unto the Walks above,</l>
+               <l>Wherein great Ladies do freqent and love</l>
+               <l>There for to come, becauſe of that Rich ſort</l>
+               <l>Of VVares therein, which by fam'd report</l>
+               <l>There you may have, and no where elſe be found,</l>
+               <l>In all the Shops upon our <hi>Engliſh</hi> ground;</l>
+               <l>Search where you will, for goodneſs, and for fair</l>
+               <l>You ſhall not find the like for to compare.</l>
+               <pb n="18" facs="tcp:151153:15"/>
+               <l>VVhat wares there are, if now thou haſt a mind</l>
+               <l>Here for to know, Come we will be ſo kind</l>
+               <l>As to inform thee of the minor part,</l>
+               <l>But for the whole, it is beyond our art</l>
+               <l>Here to Expreſs. More fitting for an age</l>
+               <l>To tell them all, then for a ſingle page</l>
+               <l>Here to relate, yet we will try our skill.</l>
+               <l>On ſome of them, Thy mind for to fulfil.</l>
+               <l>Here's in the firſt place, that rich ſort of ware</l>
+               <l>Which by our Gentry, are eſteem'd ſo rare</l>
+               <l>As Gowns, and Mantles, Twillets of all Sizes,</l>
+               <l>Rich Caps and Slippers, of all ſorts and prizes.</l>
+               <l>Here is alſo, great choyce of rich Bonelace,</l>
+               <l>Rare beauty waters, for your Ladies face,</l>
+               <l>Gloves for the hand and Garters for the knee</l>
+               <l>Here is alſo, good choyce of point-Paris,</l>
+               <l>And if you will your purſe, but farther ſqueeze</l>
+               <l>Here is likewiſe great choyce of point-Venice,</l>
+               <l>Linnen of all ſorts, either lac'd or plaine,</l>
+               <l>All ſorts of Ribbons, that you well can name,</l>
+               <l>Within this place, is alſo to be ſold</l>
+               <l>All ſorts of Pendents, richly ſet in Gold.</l>
+               <l>Here is alſo, moſt rare Cornelion Rings,</l>
+               <l>Lockets and Bracelets and ſuch pretty things,</l>
+               <l>Which by our Gentry, are eſteem'd ſo high,</l>
+               <l>And therefore come, unto this place to buy,</l>
+               <l>Here's Toyes of all ſorts Engliſh French and Dutch</l>
+               <l>To pleaſe the Ladies, who delight in ſuch,</l>
+               <l>Here they are tempted, of times or'e and or'e</l>
+               <l>To buy ſuch knacks, they never ſaw before</l>
+               <l>And as they paſs along, they oft do cry.</l>
+               <l>That <hi>John Tredusk in</hi> here they do outvy.</l>
+               <l>In pretty knacks and toyes, which to their ſight</l>
+               <l>Seems very ſtrange, but yet of great delight.</l>
+               <pb n="19" facs="tcp:151153:15"/>
+               <l>Here's Caps of all ſorts either Black or White,</l>
+               <l>To wear by day, or keep you warm at night,</l>
+               <l>Girdles of all ſorts, Turky work or plain</l>
+               <l>For thoſe good men who do ſo beat their brain</l>
+               <l>By their hard ſtudy, though for our good,</l>
+               <l>We wiſh they were but fairly underſtood,</l>
+               <l>And not contemned, by that ſort of people</l>
+               <l>Who neither care, for Pariſh Church or Steeple.</l>
+               <l>Mourning of all ſorts either Crape or Love,</l>
+               <l>All ſorts of Stockings either knit or wove,</l>
+               <l>Of Silk or Worſted, or of double Thread,</l>
+               <l>Waſtcoats of all ſorts either VVhite or Red</l>
+               <l>Or any collour, either Shag'd or Plain</l>
+               <l>Fitting for Merchants, when they croſs the Main.</l>
+               <l>Here is alſo, ſuch Shops, wherein you may</l>
+               <l>Be bravely fitted, for your VVedding Day,</l>
+               <l>VVith Silks and Sattins, and rich Silver Lace</l>
+               <l>VVhich to your worſhip, will be ſo great grace</l>
+               <l>VVhen as you ſhall then, from your virtuous Bride</l>
+               <l>Have free conſent, to ſleep cloſe by her ſide.</l>
+               <l>Theſe and the like you alwaies here may find,</l>
+               <l>VVhen as to buy, you ſhall be ſo inclin'd.</l>
+               <l>View now the Ciellings and the Lanthorn-lights,</l>
+               <l>The curious Signs, which are ſuch ſtately ſights,</l>
+               <l>The rich Balconies fixed round about</l>
+               <l>As well within, as thoſe which are without</l>
+               <l>The arched Tower and its lofty head,</l>
+               <l>The Marble-ſtones, whereon the Merchants tread</l>
+               <l>The Bells, the Clock, the Turrets and the Creſt</l>
+               <l>Of good Sr. <hi>Thomas</hi> mounted or'e the reſt,</l>
+               <l>With the large Statue of this worthy Knight</l>
+               <l>Which on the Southſide, is expos'd to ſight.</l>
+               <l>As if our city did intend thereby</l>
+               <l>The name of <hi>Greſham</hi> here ſhould never dye.</l>
+               <pb n="20" facs="tcp:151153:16"/>
+               <l>The Kings of <hi>England,</hi> and the Maiden Queen,</l>
+               <l>Which on the <hi>North</hi>-ſide, here are to be ſeen.</l>
+               <l>Six of theſe <hi>Caeſars</hi> there you may behold</l>
+               <l>All in one Shop, richly bedeckt with Gold;</l>
+               <l>Three for a Sign, and three for Ornament,</l>
+               <l>With choice of VVares too, for your good Content.</l>
+               <l>Where, if you ſhall, with your Full-pockets come,</l>
+               <l>Thence, if you pleaſe, you may go Empty home.</l>
+               <l>Theſe, and the like, now fixed with ſuch grace,</l>
+               <l>Do clearly ſhew the Splendor of the Place.</l>
+               <l>
+                  <hi>D<g ref="char:V">Ʋ</g>RHAM,</hi> farewell; thou muſt not dare to ſay,</l>
+               <l>That thy ſmall Shops do bear the bell away,</l>
+               <l>Now theſe are built. And though thou haſt a Trade</l>
+               <l>Becauſe <hi>White-hall</hi> ſo populous hath made</l>
+               <l>Thy ſpacious Streets; Yet know our loving friend,</l>
+               <l>As to the Flag, they muſt with thee contend,</l>
+               <l>And thou muſt ſay, (although againſt the grain)</l>
+               <l>That this ſaid place, the beſt is of the twain;</l>
+               <l>Either for Building, or Rich Sort of VVare,</l>
+               <l>VVhich by our Gentry are eſteem'd ſo rare.</l>
+               <l>And though for Points, thou haſt there much to do,</l>
+               <l>They have a <hi>Rutland</hi> and green Dragon too:</l>
+               <l>The Dog, the Bear, the Dolphin, and the Doves,</l>
+               <l>The Flower de luce, and alſo the three Gloves;</l>
+               <l>The Lyon red, the Bells in number three,</l>
+               <l>The Kings Pair-Royal, and the Orange-tree:</l>
+               <l>The ſemy-circle of that Planet bright,</l>
+               <l>VVhich was ordain'd of old to Rule the Night.</l>
+               <l>The Golden Horſe-ſhooe, and the Syren ſweet;</l>
+               <l>The long ſwift Veſſel in the <hi>Turkey</hi> Fleet:</l>
+               <l>The ſilver Faulcon, and three Horned-beaſts</l>
+               <l>Which make fat Paſties at our City Feaſts.</l>
+               <l>The noble Queens Arms, and the ancient Creſt</l>
+               <l>Of good Sir <hi>Thomas,</hi> there among the reſt.</l>
+               <pb n="21" facs="tcp:151153:16"/>
+               <l>And many more, which now are of great Fame</l>
+               <l>In the ſame place, for ſelling of the ſame.</l>
+               <l>VVherefore they muſt and will Top-gallant ride,</l>
+               <l>So long as <hi>Greſham</hi> ſtandeth by their ſide;</l>
+               <l>VVith whom we will Conclude our preſent Story</l>
+               <l>VVho was the Founder of</l>
+            </lg>
+            <p>
+               <hi>Great Brittain's Glory.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:151153:17"/>
+            <head>Errata.</head>
+            <p>In <hi>Epist. Dedicatory,</hi> p. 3. l. 19. after the word <hi>formerly</hi> adde, <hi>Yet for want of Trade therein, there are many com<g ref="char:EOLhyphen"/>plaints.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
